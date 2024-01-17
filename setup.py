@@ -8,8 +8,8 @@ setup(
     description='A Python utility for extracting file metadata',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='[Your Name]',
-    author_email='[Your Email]',
+    author='MasterCard007',
+    author_email='',
     url='[Your URL]',
     install_requires=[
         'tqdm',  # Assuming tqdm is a dependency, as it was used in the script

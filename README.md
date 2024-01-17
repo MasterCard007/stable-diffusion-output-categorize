@@ -2,7 +2,7 @@
 # File Metadata Extraction Script
 
 ## Overview
-This Python script is designed for handling files and extracting their metadata. It is particularly useful for tasks involving batch processing of files and metadata analysis.
+Categorizing the output PNGs of "Stable Diffusion," this Python script takes into account the model used and the shortest side of the image.
 
 ## Key Features
 - **Metadata Extraction**: Extracts metadata from files using `exiftool`.
