@@ -10,7 +10,7 @@ setup(
     long_description_content_type='text/markdown',
     author='MasterCard007',
     author_email='',
-    url='[Your URL]',
+    url='https://github.com/MasterCard007/stable-diffusion-output-categorize/',
     install_requires=[
         'tqdm',  # Assuming tqdm is a dependency, as it was used in the script
         # Add other dependencies here
